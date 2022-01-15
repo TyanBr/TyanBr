@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TyanBr
 - 👀 I’m interested in coding, football, reading and learning new things
-- 🌱 I’m currently learning German, Python and backend.
+- 🌱 I’m currently learning German, Python.
 - 💞️ I’m looking to collaborate on machine learning project they seem cool.
 - 📫 How to reach me tyanbt@outlook.com
 
